@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "BlastSmp",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "blastsmp.falix.me",
+    "port": 29566,
+    "version": "1.21.11"
   },
 
   "position": {
@@ -21,14 +21,14 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": "youmomgive"
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false,
-      "jump": false,
-      "rotate": false,
+      "enabled": true,
+      "sneak": true,
+      "jump": true,
+      "rotate": true,
 
       "hit": {
         "enabled": false,
@@ -48,9 +48,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
+        "afk ",
+        "afk ",
+        "afk ",
         "Visit my GitHub page! (urFate/Afk-Bot)"
       ]
     },
