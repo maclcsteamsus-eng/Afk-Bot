@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "blastbot",
     "password": "shardafk",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "BlastSmp.falix.me",
+    "ip": "blastsmp.falix.me",
     "port": 29566,
     "version": "1.21.11"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": "ordersmm"
     },
 
     "anti-afk": {
@@ -48,9 +48,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
+        "afk ",
+        "My owner is afk ",
+        "afking ",
         "Visit my GitHub page! (urFate/Afk-Bot)"
       ]
     },
